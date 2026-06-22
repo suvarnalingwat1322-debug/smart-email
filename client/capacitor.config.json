@@ -1,0 +1,9 @@
+{
+  "appId": "com.smartfilter.app",
+  "appName": "SmartFilter",
+  "webDir": "dist",
+  "server": {
+    "url": "https://smart-email-tau.vercel.app",
+    "cleartext": true
+  }
+}
